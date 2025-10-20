@@ -1,0 +1,8 @@
+# robots.txt for e-Portfolio site
+# Allow indexing of all public content
+User-agent: *
+Disallow: /artefacts/
+Disallow: /images/
+Disallow: /pages/
+Allow: /
+
